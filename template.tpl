@@ -134,6 +134,9 @@ var bots_ua = [
   "RyteBot", 
   "Cookiebot", 
   "Seekport Crawler",
+  "Cocolyzebot", 
+  "Veoozbot", 
+  "YisouSpider",
   
   //poorly configured headless tools
   "HeadlessChrome",
