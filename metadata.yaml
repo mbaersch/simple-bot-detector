@@ -1,4 +1,4 @@
 homepage: "https://www.markus-baersch.de"
 versions:
-  - sha: e40a0d50e367d2962218b626dab118a768a597ae
-    changeNotes: Initial release.
+  - sha: d43f105b81a8635435e4bd0cae1dd8603ed5c801
+    changeNotes: updated bot list 2021-05/06 (3 user agents added).
