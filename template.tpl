@@ -108,6 +108,8 @@ var ua = ua_org.toLowerCase();
 var bots_ua = [
   //user-agents for known rendering crawlers from search engines and other services   
   "Googlebot", 
+  "AdsBot-Google",
+  "Mediapartners-Google",
   "Google Search Console",
   "Chrome-Lighthouse",
   "DuckDuckBot",
@@ -132,12 +134,16 @@ var bots_ua = [
   "AhrefsBot", 
   "avalex",
   "RyteBot", 
+  "SemrushBot",
   "Cookiebot", 
   "Seekport Crawler",
   "Cocolyzebot", 
   "Veoozbot", 
   "YisouSpider",
-  
+  "Elisabot",
+  "ev-crawler",
+  "screeenly-bot", 
+
   //poorly configured headless tools
   "HeadlessChrome",
   "MSIE 5.0",
