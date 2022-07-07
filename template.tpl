@@ -143,6 +143,9 @@ var bots_ua = [
   "Elisabot",
   "ev-crawler",
   "screeenly-bot", 
+  "Cincraw",
+  "Applebot",
+  "headline.com",
 
   //poorly configured headless tools
   "HeadlessChrome",
