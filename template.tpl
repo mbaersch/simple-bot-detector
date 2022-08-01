@@ -146,6 +146,7 @@ var bots_ua = [
   "Cincraw",
   "Applebot",
   "headline.com",
+  "SeekportBot",
 
   //poorly configured headless tools
   "HeadlessChrome",
