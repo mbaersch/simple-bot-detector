@@ -3,7 +3,7 @@
 
 Detection for Known Rendering Bot User Agents 
 
-[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/simple-bot-detector)
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/simple-bot-detector) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/simple-bot-detector) ![License](https://img.shields.io/github/license/mbaersch/simple-bot-detector)
 
 ---
 
