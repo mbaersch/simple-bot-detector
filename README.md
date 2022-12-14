@@ -1,5 +1,11 @@
-# Simple Bot Detector (simple-bot-detector)
-Detection for Known Rendering Bot User Agents (Custom Variable Template for Server-Side Google Tag Manager)
+# Simple Bot Detector
+**Custom Variable Template for Server-Side Google Tag Manager**
+
+Detection for Known Rendering Bot User Agents 
+
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/simple-bot-detector)
+
+---
 
 ## Bot Detection via User Agent
 A good part of the client-side bot marker for Google Analytics (https://www.markus-baersch.de/blog/headless-browser-in-google-analytics-erkennen/) is based on detection of known bots using the user agent. At least this part can and should be used on the server as a substitute in case of missing detection in the browser as well. 
@@ -22,7 +28,7 @@ If the evaluation of the user agent is to be used to identify other potential bo
 
 * **Potential bots**: in the next step, the user agent gets searched for "bot", "crawler" or "spider" and strings such as "Cubot" (smartphone brand) are taken into account. If a match is found, _"Potential Bot"_ or _"Potential Bot (User Agent)"_ is the result, depending on the setting described above. If the option is active, the user agent is specified in full, so that a decision can be made as to whether to include the entry in list of self-defined bot markers in order to reliably classify them as a bots. Alternatively, you could extract the user agent in a separate variable from the header or event data and pass it to Google Analytics together with the bot marker (e.g. as user-defined property; see below).
 
-* **Everything else**: If both of the above checks fail, the result is _"OK"_.
+* ==Everything else==: If both of the above checks fail, the result is _"OK"_.
 
 ## How to Use the Results in SSGTM
 Like all variables, you can use their value to add to or control tracking. Examples:
