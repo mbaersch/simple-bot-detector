@@ -28,7 +28,7 @@ If the evaluation of the user agent is to be used to identify other potential bo
 
 * **Potential bots**: in the next step, the user agent gets searched for "bot", "crawler" or "spider" and strings such as "Cubot" (smartphone brand) are taken into account. If a match is found, _"Potential Bot"_ or _"Potential Bot (User Agent)"_ is the result, depending on the setting described above. If the option is active, the user agent is specified in full, so that a decision can be made as to whether to include the entry in list of self-defined bot markers in order to reliably classify them as a bots. Alternatively, you could extract the user agent in a separate variable from the header or event data and pass it to Google Analytics together with the bot marker (e.g. as user-defined property; see below).
 
-* ==Everything else==: If both of the above checks fail, the result is _"OK"_.
+* **Everything else**: If both of the above checks fail, the result is _"OK"_.
 
 ## How to Use the Results in SSGTM
 Like all variables, you can use their value to add to or control tracking. Examples:
