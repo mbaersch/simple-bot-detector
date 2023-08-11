@@ -2,9 +2,11 @@ homepage: "https://www.markus-baersch.de"
 documentation: "https://github.com/mbaersch/simple-bot-detector#readme"
 versions:
   # Latest version
+  - sha: c2ed17403a3ef809163138ce9a28b542e43884c6
+    changeNotes: updated bot list 2023-08 (3 new user agents, 3 new variants).  
+  # Older versions
   - sha: 344b985537c307ef157cd8ecf86c944300616329
     changeNotes: updated bot list 2023-07 (3 new user agents).  
-  # Older versions
   - sha: 6231451621a54b9c1449d2aa2a807dcdc8ff0dbe
     changeNotes: updated bot list 2022-08 (1 new variant).  
   - sha: 92eace7c9945f38b556754cce78a3f2641c0a8a7
