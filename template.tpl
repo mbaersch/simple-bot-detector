@@ -123,6 +123,9 @@ var bots_ua = [
   "Investment Crawler",
   "BingPreview",
   "Bingbot",
+  "bingbot",
+  "AdIdxBot",
+  "MicrosoftPreview",
   "Baiduspider",
   "Sogou",
   "SISTRIX",
@@ -150,6 +153,9 @@ var bots_ua = [
   "BitSightBot",
   "BrightEdge",
   "Google-InspectionTool",
+  "Pumoxbot",
+  "INTL-UI-BOT",
+  "GPTBot",
 
   //poorly configured headless tools
   "HeadlessChrome",
